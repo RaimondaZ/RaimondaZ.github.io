@@ -21,10 +21,10 @@ repository               : "raimondaz/raimondaz.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/R.png
+  avatar           : "R.png"
   name             : #
   pronouns         : # example: "she/her"  
-  bio              : "I have a Bachelor's degree in Physics and experience in Project Management within IT. I'm passionate about Artificial Intelligence and Machine Learning, and I aim to leverage my analytical skills to drive innovative solutions in these fields.."
+  bio              : "I have a Bachelor's degree in Physics and experience in Project Management within IT. I'm passionate about Artificial Intelligence and Machine Learning, and I aim to leverage my analytical skills to drive innovative solutions in these fields."
   location         : "Vilnius, Lithuania"
   employer         : "Vilnius University"
   uri              : # URL
