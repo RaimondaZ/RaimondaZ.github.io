@@ -24,7 +24,7 @@ author:
   avatar           : /images/R.png
   name             : #
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I hold a Bachelor's degree in Physics and have a background in Project Management within the IT industry. My passion lies in exploring Artificial Intelligence and Machine Learning, where I aim to leverage my analytical skills and project management experience to drive innovative solutions. With a strong foundation in scientific principles and a keen interest in technology, I strive to understand and contribute to the evolving landscape of AI and ML."
   location         : "Vilnius, Lithuania"
   employer         : "Vilnius University"
   uri              : # URL
@@ -86,7 +86,7 @@ publication_category:
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
