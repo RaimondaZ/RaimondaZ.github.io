@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Valuable insights by learning and applying AI"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 This chapter is dedicated to sharing my experiences, valuable resources, and insights gained along the way as I explore the fascinating fields of Artificial Intelligence (AI) and Machine Learning (ML).
 
-Usefull Material:
+Useful material:
 ======
 
 6.036 Introduction to Machine Learning
