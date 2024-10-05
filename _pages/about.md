@@ -11,10 +11,12 @@ This chapter is dedicated to sharing my experiences, valuable resources, and ins
 Useful material:
 ======
 
-6.036 Introduction to Machine Learning
+MIT 6.036 Introduction to Machine Learning:
+
 https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/
 
-6.0001 Introduction to Computer Science and Programming in Python
+MIT 6.0001 Introduction to Computer Science and Programming in Python:
+
 https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/
 
 
