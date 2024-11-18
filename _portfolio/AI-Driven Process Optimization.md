@@ -4,13 +4,13 @@ excerpt: "AI-Driven Process Optimization <br/><img src='/images/Manufacturing - 
 collection: portfolio
 ---
 
-High tech companies face challanges because of their product and processes complexity. After high level process review it is clear that clasical prioritization needs to be set up in main processes. 
+High-tech companies face challenges because of their product and process complexity. After a high-level process review, it is clear that classical prioritization needs to be set up in the main processes.
 
 <br/><img src='/images/images/Manufacturing - process management draft v.1 (1).png'><br/>
 
 For manufacturing process optimization AI driven inovations were presented for consideration. 
 
-Machine learning (ML) has numerous applications in laser manufacturing, enhancing precision, efficiency, quality control, and predictive maintenance. Here are some of the main areas where ML can be applied in laser-based manufacturing processes:
+Machine learning has numerous applications in laser manufacturing, enhancing precision, efficiency, quality control, and predictive maintenance. Here are some of the main areas where ML can be applied in laser-based manufacturing processes:
 
 1. Process Optimization
 
