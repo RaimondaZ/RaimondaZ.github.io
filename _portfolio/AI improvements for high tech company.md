@@ -1,6 +1,6 @@
 ---
 title: "AI improvements for high tech company"
-excerpt: "AI improvements for high tech company <br/><img src='/images/DMAIC-A3.png'>"
+excerpt: "AI improvements for high tech company <br/><img src='/images/Manufacturing - process management draft v.1 (1).png'>"
 collection: portfolio
 ---
 
