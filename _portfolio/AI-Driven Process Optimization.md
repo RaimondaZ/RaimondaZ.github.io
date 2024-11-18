@@ -1,11 +1,10 @@
 ---
 title: "AI-Driven Process Optimization"
-excerpt: "AI-Driven Process Optimization <br/><img src='/images/Manufacturing - process management draft v.1 (1).png'>"
+excerpt: "AI-Driven Process Optimization <br/> <img src='/images/Manufacturing - process management draft v.1 (1).png'>"
 collection: portfolio
 ---
 
 High-tech companies face challenges because of their product and process complexity. After a high-level process review, it is clear that classical prioritization needs to be set up in the main processes.
-
 
 <br/><img src='/images/images/Manufacturing - process management draft v.1 (1).png'><br/>
 
