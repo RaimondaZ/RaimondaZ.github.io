@@ -1,6 +1,6 @@
 ---
 title: "AI-Driven Process Optimization"
-excerpt: "AI-Driven Process Optimization <br/> <img src='/images/Manufacturing - process management draft v.1 (1).png'>"
+excerpt: "AI-Driven Process Optimization <br/> <br/> <br/> <img src='/images/Manufacturing - process management draft v.1 (1).png'>"
 collection: portfolio
 ---
 
