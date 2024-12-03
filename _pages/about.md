@@ -11,13 +11,13 @@ This chapter is dedicated to sharing my experiences, valuable resources, and ins
 Useful material:
 ======
 
-MIT 6.036 Introduction to Machine Learning:
+MIT 6.036 Introduction to Machine Learning:<br>
 https://openlearninglibrary.mit.edu/courses/course-v1:MITx+6.036+1T2019/course/
 
-Theoretical and practical GEN AI training by Google Cloud: 
-Advanced: Generative AI for Developers Learning Path
+Advanced: Generative AI for Developers Learning Path by Google Cloud:<br>
+https://www.cloudskillsboost.google/paths/183
 
-AWS Data Governance Master Class by Kevin Lewis:
+AWS Data Governance Master Class by Kevin Lewis:<br>
 https://pages.awscloud.com/GLOBAL-devadopt-DL-Data-governance-master-class-2023-learn.html?refid=faq_card
 
 
