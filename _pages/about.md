@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-This chapter is dedicated to sharing my experiences, valuable resources, and insights gained along the way as I explore the fascinating fields of Artificial Intelligence (AI) and Machine Learning (ML).
+This chapter is dedicated to sharing my experiences, valuable resources, and insights gained along the way as I explore the fascinating fields of Artificial Intelligence (AI): Machine Learning (ML) and Generative AI (GEN AI).
 
 Useful material:
 ======
