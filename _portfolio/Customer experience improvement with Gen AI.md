@@ -1,6 +1,6 @@
 ---
 title: "Customer experience improvement with Gen AI"
-excerpt: "Gen AI for Customer experience improvement <br/><img src='/images/DMAIC-A3.png'>"
+excerpt: "Gen AI for Customer experience improvement <br/> <br/> <br/><img src='/images/DMAIC-A3.png'>"
 collection: portfolio
 ---
 
