@@ -6,8 +6,7 @@ collection: portfolio
 ---
 
 This framework highlights the key human - centric elements of change management essential for successful AI implementation within organizations. It focuses on: Mindset, Communication and Resource Alignment: 
-
-<br/><img src='/images/Enabling the change for AI.png'><br/>
+<img src='/images/Enabling the change for AI.png'><br/>
 
 **Mindset** 
 
