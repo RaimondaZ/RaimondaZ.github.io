@@ -7,7 +7,7 @@ collection: portfolio
 
 This framework highlights the key elements of change management essential for successful AI implementation within organizations. It focuses on:
 
-<br/><img src='/images/Enabling the change for AI'><br/>
+<br/><img src='/images/Enabling the change for AI.png'><br/>
 
 **Mindset** 
 
