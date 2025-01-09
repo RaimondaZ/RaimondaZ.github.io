@@ -1,6 +1,5 @@
 ---
 title: "AI-Driven Process Optimization"
-date: 2024-11-30
 excerpt: "AI-Driven Process Optimization <br/> <br/> <img src='/images/Manufacturing - process management draft v.1 (1).png'>"
 collection: portfolio
 ---
