@@ -1,6 +1,5 @@
 ---
 title: "Key human-centric aspects for AI implementation"
-date: 2024-12-10
 excerpt: "Framework for AI implementation <br/> <br/> <img src='/images/Enabling the change for AI.png'>"
 collection: portfolio
 ---
