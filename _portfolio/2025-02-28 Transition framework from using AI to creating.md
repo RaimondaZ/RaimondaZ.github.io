@@ -5,7 +5,7 @@ excerpt: "Transition framework from using AI to creating <br/> <br/> <img src='/
 collection: portfolio
 ---
 
-From using AI to creating: what steps could be taken?
+How start creating AI?
 
 Empowering youth and educators to transition from AI users to AI creators begins with a solid foundation in core skills like mathematics, logic, and problem-solving. By introducing mathematical concepts from the basics in schools—such as algebra, geometry, and probability—students develop the analytical thinking required to understand the underlying principles of AI. Early exposure to computational thinking and problem-based learning fosters curiosity and prepares students to grasp more advanced concepts.
 
