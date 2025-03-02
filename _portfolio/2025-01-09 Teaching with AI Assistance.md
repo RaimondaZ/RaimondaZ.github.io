@@ -1,7 +1,7 @@
 ---
 title: "Teaching with AI Assistance: A STEAM Experience for Preschoolers"
 
-excerpt: "Teaching with AI Assistance: A STEAM Experience for Preschoolers <br/> <br/> <img src='/images/Teaching with GEN AI help.png'>"
+excerpt: "What are key benefits of GEN AI in teaching? <br/> <br/> <img src='/images/Teaching with GEN AI help.png'>"
 collection: portfolio
 ---
 
