@@ -1,7 +1,7 @@
 ---
 title: "Transition framework from using AI to creating"
 
-excerpt: "Transition framework from using AI to creating <br/> <br/> <img src='/images/AI user or creator.png'>"
+excerpt: "How start creating AI? <br/> <br/> <img src='/images/AI user or creator.png'>"
 collection: portfolio
 ---
 
