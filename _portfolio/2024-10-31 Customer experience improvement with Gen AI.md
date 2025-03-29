@@ -1,5 +1,6 @@
 ---
 title: "Customer experience improvement with Gen AI"
+date: 2024-10-31
 excerpt: "Gen AI for Customer experience improvement <br/> <br/><img src='/images/DMAIC-A3.png'>"
 collection: portfolio
 ---
