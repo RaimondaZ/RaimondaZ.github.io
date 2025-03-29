@@ -1,6 +1,6 @@
 ---
 title: "Teaching with AI Assistance: A STEAM Experience for Preschoolers"
-
+date: 2025-01-09
 excerpt: "What are key benefits of GEN AI in teaching? <br/> <br/> <img src='/images/Teaching with GEN AI help.png'>"
 collection: portfolio
 ---
