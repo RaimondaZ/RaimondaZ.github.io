@@ -1,6 +1,6 @@
 ---
 title: "Transition framework from using AI to creating"
-
+date: 2025-02-28
 excerpt: "How start creating AI? <br/> <br/> <img src='/images/AI user or creator.png'>"
 collection: portfolio
 ---
