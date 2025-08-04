@@ -20,4 +20,7 @@ https://www.cloudskillsboost.google/paths/183
 AWS Data Governance Master Class by Kevin Lewis:<br>
 https://pages.awscloud.com/GLOBAL-devadopt-DL-Data-governance-master-class-2023-learn.html?refid=faq_card
 
+Amazon Q Business Getting Started:<br>
+https://skillbuilder.aws/learn/XDC51QHE4W/amazon-q-business-getting-started/GTNUVSWBJ2
+
 
