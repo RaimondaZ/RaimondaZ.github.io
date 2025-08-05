@@ -23,4 +23,8 @@ https://pages.awscloud.com/GLOBAL-devadopt-DL-Data-governance-master-class-2023-
 Amazon Q Business Getting Started:<br>
 https://skillbuilder.aws/learn/XDC51QHE4W/amazon-q-business-getting-started/GTNUVSWBJ2
 
+AWS SimuLearn: Create an Enterprise Knowledge Assistant: <br>
+https://skillbuilder.aws/learn/7E4FETUE2Y/aws-simulearn-create-an-enterprise-knowledge-assistant/2F4Q5XU8WB
 
+AWS SimuLearn: Generate Code for a Webpage: <br>
+https://skillbuilder.aws/learn/XR5XSR3BHZ/aws-simulearn-generate-code-for-a-webpage/SFXMVX8EFH
