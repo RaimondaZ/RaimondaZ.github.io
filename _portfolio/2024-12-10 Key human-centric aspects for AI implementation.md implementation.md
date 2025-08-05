@@ -1,12 +1,12 @@
 ---
 title: "Key human-centric aspects for AI implementation"
-date: 2023-12-10
-excerpt: "Framework for AI implementation <br/> <br/> <img src='/images/Enabling the change for AI.png'>"
+date: 2024-12-10
+excerpt: "Framework for AI implementation <br/> <br/> <img src='/images/AI implementation.png'>"
 collection: portfolio
 ---
 
 This framework highlights the key human - centric elements of change management essential for successful AI implementation within organizations. It focuses on: Mindset, Communication and Resource Alignment: 
-<img src='/images/Enabling the change for AI.png'><br/>
+<img src='/images/AI implementation.png'><br/>
 
 **Mindset** 
 
