@@ -1,6 +1,6 @@
 ---
 title: "Bank's competitive positioning"
-excerpt: "Bank's competative positioning <br/><br/> <img src='/images/price per performance unit.png'>"
+excerpt: "Bank's competitive positioning <br/><br/> <img src='/images/price per performance unit.png'>"
 collection: portfolio
 ---
 
