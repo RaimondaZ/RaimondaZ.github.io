@@ -1,6 +1,5 @@
 ---
 title: "Bank's competitive positioning"
-date: 2024-08-05
 excerpt: "Bank's competative positioning <br/><br/> <img src='/images/price per performance unit.png'>"
 collection: portfolio
 ---
