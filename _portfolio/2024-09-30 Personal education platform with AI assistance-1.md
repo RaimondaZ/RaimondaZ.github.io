@@ -1,5 +1,5 @@
 ---
-title: "Personal education platform with AI assistance"
+title: "Personal education platform with AI assistance-1"
 date: 2024-09-30
 excerpt: "Business model assessment of Personal education platform with AI assistance <br/><br/> <img src='/images/Business Model Assesment.png'>"
 collection: portfolio
