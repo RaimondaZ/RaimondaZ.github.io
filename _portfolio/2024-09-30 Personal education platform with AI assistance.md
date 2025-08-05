@@ -1,7 +1,7 @@
 ---
-title: "Personal education platform with AI assistance-1"
+title: "Personal education platform with AI assistance"
 date: 2024-09-30
-excerpt: "Business model assessment of Personal education platform with AI assistance/1 <br/><br/> <img src='/images/Business Model Assesment.png'>"
+excerpt: "Business model assessment of Personal education platform with AI assistance <br/><br/> <img src='/images/Business Model Assesment.png'>"
 collection: portfolio
 ---
 
