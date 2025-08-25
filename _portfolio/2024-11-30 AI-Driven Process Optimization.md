@@ -63,7 +63,7 @@ Key Benefits of ML in High-Tech product Manufacturing
 
 Machine learning in in High-Tech product manufacturing can bring significant improvements to both cost and quality, making it an invaluable tool for advanced manufacturing.
 
-Complex Hight Tech Product's ease of use differentation startegy 
+Complex Hight Tech Product's ease of use differentation strategy 
 
-<img width="554" height="308" alt="image" src="https://github.com/user-attachments/assets/e9dcb426-ffc7-4745-940f-51fc3d7d176e" />
+<img width="654" height="408" alt="image" src="https://github.com/user-attachments/assets/e9dcb426-ffc7-4745-940f-51fc3d7d176e" />
 
