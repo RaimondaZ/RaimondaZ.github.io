@@ -65,7 +65,7 @@ Machine learning in in High-Tech product manufacturing can bring significant imp
 
 Complex Hight Tech Product's ease of use differentation strategy 
 
-As a high tech product user I want to define industry's / science's related problem and required result by providing text (e.g. scientific research papaers), voice, image, video in order to simulate outcomes and posible results with suggested options of product virtual set ups that would help me decide buying needed products.  
+As a high tech product user I want to define industry's / science's related problem and required result by providing text (e.g. scientific research papers), voice, image, video in order to simulate outcomes and posible results with suggested options of product virtual set ups that would help me decide buying needed products.  
 
 <img width="1054" height="708" alt="image" src="https://github.com/user-attachments/assets/e9dcb426-ffc7-4745-940f-51fc3d7d176e" />
 
