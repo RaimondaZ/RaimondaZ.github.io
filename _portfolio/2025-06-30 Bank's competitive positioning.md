@@ -15,3 +15,8 @@ One of the ways to make operations more efficient is to give the customer abilit
 User-friendly self-service portal for retailers could eliminate the # of requests about transaction data, reporting, fees and configuration changes. 
 
 <img width="1072" height="849" alt="image" src="https://github.com/user-attachments/assets/1b31c1df-106c-4e98-81d5-acee1ad1ed47" />
+
+As technology and innovative solutions emerge, more fraud cases appear that are difficult to identify and prevent. For learning, identifying, and preventing fraud cases AI could be used in most fraudulent areas. 
+
+<img width="1048" height="607" alt="image" src="https://github.com/user-attachments/assets/b55867df-92fb-471c-8bce-d933415c64f4" />
+
