@@ -5,7 +5,6 @@ excerpt: "Bank's competitive positioning <br/><br/> <img src='/images/price per 
 collection: portfolio
 ---
 
-<br/><br/>
 When similar services or products are being offered then competing on price per performance unit could be beneficial. 
 One way to improve performance is to reduce the time that is needed to perform certain tasks so that the product or service could be delivered quicker. 
 
