@@ -1,7 +1,7 @@
 ---
 title: "Product strategy - reduced manufacturing cost while increasing the quality"
 date: 2024-11-30
-excerpt: "Product strategy - reduced manufacturing cost while increasing the quality <br/> <br/> <img src='/images/Product strategy.png'><br/>
+excerpt: "Reducing manufacturing cost while increasing quality <br/> <br/><img src='/images/Product strategy.png'>"
 collection: portfolio
 ---
 
