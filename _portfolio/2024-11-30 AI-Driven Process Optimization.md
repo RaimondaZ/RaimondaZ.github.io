@@ -1,11 +1,11 @@
 ---
-title: "AI-Driven Process Optimization"
+title: "Product strategy - reduced manufacturing cost while increasing the quality"
 date: 2024-11-30
-excerpt: "AI-Driven Process Optimization <br/> <br/> <img src='/images/Manufacturing - process management draft v.1 (1).png'>"
+excerpt: "Product strategy - reduced manufacturing cost while increasing the quality <br/> <br/> <img width="1070" height="853" alt="image" src="https://github.com/user-attachments/assets/135319ea-ac6a-46d6-9869-d51e467cc81f" />"
 collection: portfolio
 ---
 
-**Product strategy - reduced manufacturing cost while increasing quality**
+**Product strategy - reduced manufacturing cost while increasing the quality**
 
 By reducing the cost of supply chain and improving the quality at the same time, more time could be dedicated for the core technology and product development. 
 
