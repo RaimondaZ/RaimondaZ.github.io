@@ -7,9 +7,9 @@ collection: portfolio
 
 **Product strategy - reduced manufacturing cost while increasing quality**
 
-By reducing the cost of supply chain and improving the quality at the same time, more time could be dedicated for core technology and product development. 
+By reducing the cost of supply chain and improving the quality at the same time, more time could be dedicated for the core technology and product development. 
 
-<img width="870" height="653" alt="image" src="https://github.com/user-attachments/assets/135319ea-ac6a-46d6-9869-d51e467cc81f" />
+<img width="1070" height="853" alt="image" src="https://github.com/user-attachments/assets/135319ea-ac6a-46d6-9869-d51e467cc81f" />
 
 
 High-tech companies face challenges because of their product and process complexity. After a high-level process review, it is clear that classical prioritization needs to be set up in the main processes.
