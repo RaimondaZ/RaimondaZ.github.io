@@ -12,6 +12,13 @@ By reducing the cost of supply chain and improving the quality at the same time,
 <img width="1070" height="853" alt="image" src="https://github.com/user-attachments/assets/135319ea-ac6a-46d6-9869-d51e467cc81f" />
 
 
+**Complex Hight-Tech product's ease of use differentiation strategy**
+
+As a high-tech product user I want to define industry's/science's related problem and required result by providing text (e.g., scientific research papers), voice, image, video in order to simulate outcomes and possible results with suggested options of product virtual setups that would help me decide to buy needed products.  
+
+<img width="1054" height="708" alt="image" src="https://github.com/user-attachments/assets/e9dcb426-ffc7-4745-940f-51fc3d7d176e" />
+
+
 High-tech companies face challenges because of their product and process complexity. After a high-level process review, it is clear that classical prioritization needs to be set up in the main processes.
 
 <br/><img src='/images/Manufacturing - process management draft v.1 (1).png'><br/>
@@ -69,10 +76,3 @@ Key Benefits of ML in High-Tech product Manufacturing
 - Customization Flexibility: Enables adaptation to new materials and evolving customer requirements.
 
 Machine learning in High-Tech product manufacturing can bring significant improvements to both cost and quality, making it an invaluable tool for advanced manufacturing.
-
-**Complex Hight-Tech product's ease of use differentiation strategy**
-
-As a high-tech product user I want to define industry's/science's related problem and required result by providing text (e.g., scientific research papers), voice, image, video in order to simulate outcomes and possible results with suggested options of product virtual setups that would help me decide to buy needed products.  
-
-<img width="1054" height="708" alt="image" src="https://github.com/user-attachments/assets/e9dcb426-ffc7-4745-940f-51fc3d7d176e" />
-
