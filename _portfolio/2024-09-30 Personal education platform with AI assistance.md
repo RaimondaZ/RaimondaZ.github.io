@@ -29,6 +29,8 @@ Next steps: <br/><br/>
 <img src='/images/AB testing.png'><br/><br/>
 
 **Global product strategy**
+
+There are key elemnets to consider when developing global strategy. 
  
-<img width="867" height="675" alt="image" src="https://github.com/user-attachments/assets/07725dc0-9b33-4426-b8bd-5c23a194d7fa" />
+<img width="1067" height="875" alt="image" src="https://github.com/user-attachments/assets/07725dc0-9b33-4426-b8bd-5c23a194d7fa" />
 
