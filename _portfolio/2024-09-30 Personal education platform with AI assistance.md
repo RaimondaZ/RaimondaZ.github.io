@@ -1,9 +1,18 @@
 ---
-title: "Personal education platform with AI assistance"
+title: "Thinking globally about product strategy"
 date: 2024-09-30
-excerpt: "Business model assessment of Personal education platform with AI assistance <br/><br/> <img src='/images/Business Model Assesment.png'>"
+excerpt: "Personal education platform <br/><br/> <img src='/images/Global product strategies.png'>"
 collection: portfolio
 ---
+**Global product strategy**
+
+There are key elemnets to consider thinking globally about product strategy for personal education platforms.
+ 
+<img width="1073" height="906" alt="image" src="https://github.com/user-attachments/assets/17524122-cbea-4c65-9802-c6271a9fc038" />
+
+
+Business model assessment of Personal education platform with AI assistance
+
 Innovative AI technology driven company providing personal education services with AI assisstance is aming to attract new customers. 
 Business model assesment is done and needs to be clarified to identify key actions for improvement areas and next steps.<br/><br/>
 
