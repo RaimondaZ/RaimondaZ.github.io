@@ -4,7 +4,6 @@ date: 2024-09-30
 excerpt: "Business model assessment of Personal education platform with AI assistance <br/><br/> <img src='/images/Business Model Assesment.png'>"
 collection: portfolio
 ---
-
 <br/><br/>
 Innovative AI technology driven company providing personal education services with AI assisstance is aming to attract new customers. 
 Business model assesment is done and needs to be clarified to identify key actions for improvement areas and next steps.<br/><br/>
@@ -30,7 +29,7 @@ Next steps: <br/><br/>
 
 **Global product strategy**
 
-There are key elemnets to consider when developing global strategy. 
+There are key elemnets to consider thinking globally about product strategy.  
  
 <img width="1067" height="875" alt="image" src="https://github.com/user-attachments/assets/07725dc0-9b33-4426-b8bd-5c23a194d7fa" />
 
