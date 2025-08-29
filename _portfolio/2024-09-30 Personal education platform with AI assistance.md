@@ -4,7 +4,6 @@ date: 2024-09-30
 excerpt: "Business model assessment of Personal education platform with AI assistance <br/><br/> <img src='/images/Business Model Assesment.png'>"
 collection: portfolio
 ---
-<br/><br/>
 Innovative AI technology driven company providing personal education services with AI assisstance is aming to attract new customers. 
 Business model assesment is done and needs to be clarified to identify key actions for improvement areas and next steps.<br/><br/>
 
