@@ -28,7 +28,7 @@ Next steps: <br/><br/>
 
 <img src='/images/AB testing.png'><br/><br/>
 
-** Global product strategy**
+**Global product strategy**
  
 <img width="867" height="675" alt="image" src="https://github.com/user-attachments/assets/07725dc0-9b33-4426-b8bd-5c23a194d7fa" />
 
