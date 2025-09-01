@@ -1,7 +1,7 @@
 ---
 title: "Training and AI: what tools to use?"
 date: 2025-01-09
-excerpt: "How RAG, Chatbot, Agents, GEN AI can be used in trainings? <br/> <br/> <img src='/images/Teaching with GEN AI help.png'>"
+excerpt: "How RAG, Chatbot, Agents, GEN AI can be used in trainings? <br/> <br/> <img src='/images/Training and AI.png'>"
 collection: portfolio
 ---
 
