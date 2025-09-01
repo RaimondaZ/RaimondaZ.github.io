@@ -1,9 +1,13 @@
 ---
-title: "Teaching with AI Assistance: A STEAM Experience for Preschoolers"
+title: "Training and AI: what tools to use?"
 date: 2025-01-09
-excerpt: "What are key benefits of GEN AI in teaching? <br/> <br/> <img src='/images/Teaching with GEN AI help.png'>"
+excerpt: "How RAG, Chatbot, Agents, GEN AI can be used in trainings? <br/> <br/> <img src='/images/Teaching with GEN AI help.png'>"
 collection: portfolio
 ---
+
+As a training preparation profesional I want to prepare training material, that is up to date, gathered from different trustfull sources and are cost effective so that I could deliver the trainings to dedicated group, gather feedback, evaluation and update the material. 
+
+<img width="1084" height="868" alt="image" src="https://github.com/user-attachments/assets/b78db33f-0a01-4004-b3f7-196e615daed1" />
 
 Teaching with AI Assistance: A STEAM Experience for Preschoolers
 
