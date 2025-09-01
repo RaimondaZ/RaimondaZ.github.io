@@ -1,11 +1,13 @@
 ---
 title: "Customer experience, Sales improvement with RAG data base, Chatbot, Agents"
 date: 2024-10-31
-excerpt: "When product information is complex and/or changing and/or lots of it <br/> <br/><img src='/images/DMAIC-A3.png'>"
+excerpt: "When product information is complex and/or changing and/or lots of it? <br/> <br/><img src='/images/Product information.png'>"
 collection: portfolio
 ---
 
-RAG -> Chatbot -> Agents 
+RAG data base with external, up to date information in different formats let's you get biggest value in knowlegde management. 
+When human like accurate and quick info is needed chatbot can help in providing info and helping to learn new material for new joiners.
+Agents are used to set up marketings, sales material and send it to dedicated customers. 
 
 <img width="1052" height="852" alt="image" src="https://github.com/user-attachments/assets/4f1ac53b-1c9a-4653-b698-eba7d74386c3" />
 
