@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv Raimonda Zilinskaite/
+permalink: /CV Raimonda Zilinskaite/
 author_profile: true
 redirect_from:
   - /resume
