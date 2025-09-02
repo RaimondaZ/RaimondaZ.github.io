@@ -1,12 +1,15 @@
 ---
 permalink: /
-title: "Valuable insights by learning and applying AI"
+title: "Valuable insights by learning and applying AI in product management life cycle"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-This chapter is dedicated to sharing my experiences, valuable resources, and insights gained along the way as I explore the fascinating fields of Artificial Intelligence (AI): Machine Learning (ML) and Generative AI (GEN AI).
+This chapter is dedicated to sharing my experiences, valuable resources, and insights gained along the way as I explore the fascinating fields of Artificial Intelligence (AI): Machine Learning (ML) and Generative AI (GEN AI) in product management life cycle: 
+
+<img width="1052" height="850" alt="image" src="https://github.com/user-attachments/assets/3e0603ce-1e81-43fb-ad62-123276ff80f3" />
+
 
 Useful material:
 ======
