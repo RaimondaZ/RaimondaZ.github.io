@@ -15,4 +15,9 @@ User-friendly self-service portal for retailers could eliminate the # of request
 
 <img width="1072" height="849" alt="image" src="https://github.com/user-attachments/assets/1b31c1df-106c-4e98-81d5-acee1ad1ed47" />
 
+**Increase the market share by reaching out noncustomers**
+
+As a bank offering different products for exsisting cutomers I want to intruduce effective money saving tool for new customers who wants to save money for down payment, kids, pension, insurance or investing. 
+
+<img width="1010" height="821" alt="image" src="https://github.com/user-attachments/assets/452d962c-68cd-4cb9-bc44-6eb63d33215a" />
 
