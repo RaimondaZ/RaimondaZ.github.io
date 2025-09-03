@@ -19,5 +19,6 @@ User-friendly self-service portal for retailers could eliminate the # of request
 
 As a bank offering different products for exsisting cutomers I want to intruduce effective money saving tool for new customers who wants to save money for down payment, kids, pension, insurance or investing. 
 
-<img width="1010" height="821" alt="image" src="https://github.com/user-attachments/assets/452d962c-68cd-4cb9-bc44-6eb63d33215a" />
+<img width="1016" height="833" alt="image" src="https://github.com/user-attachments/assets/ff425436-1d26-4ea0-93f2-e754bd56c30d" />
+
 
