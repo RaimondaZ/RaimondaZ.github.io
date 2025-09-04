@@ -5,9 +5,10 @@ excerpt: "Reducing manufacturing cost while increasing quality <br/> <br/><img s
 collection: portfolio
 ---
 
-**R&D investments in core technology and product design & development gives advantage in competing on the basis of price / performance **
+**R&D investments in core technology and product design gives advantage in competing on the basis of price / performance**
 
-<img width="1034" height="925" alt="image" src="https://github.com/user-attachments/assets/e8211f1e-c816-4762-a296-8849c9c8923e" />
+<img width="936" height="850" alt="image" src="https://github.com/user-attachments/assets/9da21856-c56b-4ef0-96a8-ba7e4685d95a" />
+
 
 
 **Product strategy - reduced manufacturing cost while increasing the quality**
