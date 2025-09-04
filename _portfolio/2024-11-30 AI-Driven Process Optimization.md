@@ -5,6 +5,11 @@ excerpt: "Reducing manufacturing cost while increasing quality <br/> <br/><img s
 collection: portfolio
 ---
 
+**R&D investments in core technology and product design & development gives advantage in competing on the basis of price / performance **
+
+<img width="1034" height="925" alt="image" src="https://github.com/user-attachments/assets/e8211f1e-c816-4762-a296-8849c9c8923e" />
+
+
 **Product strategy - reduced manufacturing cost while increasing the quality**
 
 By reducing the cost of supply chain and improving the quality at the same time, more time could be dedicated for the core technology and product development. 
