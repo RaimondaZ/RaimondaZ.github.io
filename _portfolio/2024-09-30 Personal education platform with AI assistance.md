@@ -35,7 +35,7 @@ Next steps: <br/><br/>
 
 <img src='/images/AB testing.png'><br/><br/>
 
-Learning experience: any differences in global and national level?
+**Learning experience: any differences in global and national level?**
 
 <img width="1080" height="937" alt="image" src="https://github.com/user-attachments/assets/df59aa7c-9ed8-4728-8571-1599a8a1fe27" />
 
