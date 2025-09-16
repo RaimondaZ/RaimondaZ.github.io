@@ -21,4 +21,8 @@ As a bank offering different products for exsisting cutomers I want to introduce
 
 <img width="1016" height="833" alt="image" src="https://github.com/user-attachments/assets/ff425436-1d26-4ea0-93f2-e754bd56c30d" />
 
+**Identifying customer value could bring to WIN WIN products**
 
+What products could be most valuable by customers that is worth investing?
+
+<img width="1015" height="904" alt="image" src="https://github.com/user-attachments/assets/be07a303-60bf-4a1f-8e74-fdf112b64630" />
