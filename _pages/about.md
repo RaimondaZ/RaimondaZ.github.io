@@ -11,9 +11,9 @@ This chapter is dedicated to sharing my experiences, valuable resources, and ins
 <img width="1920" height="1080" alt="Product management" src="https://github.com/user-attachments/assets/1e75f405-bb0b-4a2d-9f62-fa43c36ee620" />
 
 
-How to create a new market place? 
+**How to create a new market place? **
 
-<img width="1095" height="832" alt="image" src="https://github.com/user-attachments/assets/588e3a33-5c8b-4ae1-89c9-bf603e3d2245" />
+<img width="1095" height="835" alt="image" src="https://github.com/user-attachments/assets/b7ef374c-c86b-4fd9-a93e-6e785006607f" />
 
 
 
