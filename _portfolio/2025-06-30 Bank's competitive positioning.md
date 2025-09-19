@@ -24,6 +24,7 @@ As a bank offering different products for exsisting cutomers I want to introduce
 
 **Identifying customer value could bring to WIN WIN products**
 
-What products could be most valuable by customers that is worth investing?
+What products would be most valuable by customers that is worth investing?
 
-<img width="1015" height="904" alt="image" src="https://github.com/user-attachments/assets/be07a303-60bf-4a1f-8e74-fdf112b64630" />
+<img width="983" height="890" alt="image" src="https://github.com/user-attachments/assets/53e998b5-1f3b-42d8-813d-3dd3c6bf9af9" />
+
