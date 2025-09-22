@@ -28,3 +28,8 @@ What products would be most valuable by customers that is worth investing?
 
 <img width="983" height="890" alt="image" src="https://github.com/user-attachments/assets/53e998b5-1f3b-42d8-813d-3dd3c6bf9af9" />
 
+**Data is key when applying AI**
+
+AI application starts with data, and it needs to be real-time, consolidated, and placed in one dedicated platform to apply AI solutions for data-driven decision-making to increase sales, avoid losses, invest, and adapt to changes.  
+
+<img width="1024" height="918" alt="image" src="https://github.com/user-attachments/assets/f3f6a433-6c1a-4a0f-a0bd-321509c9f00b" />
