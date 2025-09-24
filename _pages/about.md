@@ -25,6 +25,15 @@ To reach beyond existing demand, think noncustomers before customers; commonalit
 <img width="1088" height="1038" alt="image" src="https://github.com/user-attachments/assets/c7a292f6-6244-4d33-8daa-e9c579969385" />
 
 
+
+**From exeptional utility to Strategic pricing**
+
+Identifying the price that will quickly capture the mass of the target buyers and deducting desired profit margin will bring you to the target cost 
+
+<img width="1043" height="935" alt="image" src="https://github.com/user-attachments/assets/5ac92676-6f78-45f4-a4f4-054950c9a625" />
+
+
+
 Useful material:
 ======
 
