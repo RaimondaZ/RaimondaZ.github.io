@@ -26,7 +26,7 @@ To reach beyond existing demand, think noncustomers before customers; commonalit
 
 
 
-**From exeptional utility to Strategic pricing**
+**From Exeptional Utility to Strategic Pricing**
 
 Identifying the price that will quickly capture the mass of the target buyers and deducting desired profit margin will bring you to the target cost 
 
