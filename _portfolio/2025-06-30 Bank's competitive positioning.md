@@ -43,3 +43,7 @@ By locating your proposed offering on the thirty-six spaces of the buyer utility
 
 <img width="1073" height="1050" alt="image" src="https://github.com/user-attachments/assets/1f83fae3-d0ae-4f9a-acbc-9f88054bfb61" />
 
+Knowing from the start what price will quickly capture the mass of target buyers eliminates novelty-seeking, price-insensitive customers and skips raising and dropping the price from the beginning
+<img width="1085" height="951" alt="image" src="https://github.com/user-attachments/assets/8723c541-63e1-4304-bb9f-a28f6afb6ec7" />
+
+
