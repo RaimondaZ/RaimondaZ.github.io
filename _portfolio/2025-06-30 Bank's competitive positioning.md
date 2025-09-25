@@ -44,6 +44,7 @@ By locating your proposed offering on the thirty-six spaces of the buyer utility
 <img width="1073" height="1050" alt="image" src="https://github.com/user-attachments/assets/1f83fae3-d0ae-4f9a-acbc-9f88054bfb61" />
 
 
+
 **Lack of excludability reinforces the risk of free riding**
 
 Knowing from the start what price will quickly capture the mass of target buyers eliminates novelty-seeking, price-insensitive customers and skips raising and dropping the price from the beginning. Strategic price you set for your offering must not only attract buers in large numbers but also help you to retain them. 
