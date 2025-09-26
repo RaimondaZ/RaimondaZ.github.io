@@ -55,7 +55,8 @@ Knowing from the start what price will quickly capture the mass of target buyers
 
 **SME financing model used in emerging European countries**
 
-<img width="1042" height="1073" alt="image" src="https://github.com/user-attachments/assets/04fe9428-0a44-4b62-a919-88eb5dff6d85" />
+<img width="1039" height="926" alt="image" src="https://github.com/user-attachments/assets/f540c58b-e4dd-400e-a4e5-677bb17eb4d8" />
+
 
 
 
