@@ -8,7 +8,8 @@ redirect_from:
 ---
 This chapter is dedicated to sharing my experiences, valuable resources, and insights gained along the way as I explore the fascinating fields of Artificial Intelligence (AI): Machine Learning (ML) and Generative AI (GEN AI) in product management life cycle: 
 
-<img width="1920" height="1080" alt="Product management" src="https://github.com/user-attachments/assets/1e75f405-bb0b-4a2d-9f62-fa43c36ee620" />
+<img width="1038" height="887" alt="image" src="https://github.com/user-attachments/assets/90685f54-1d72-4402-80e8-158f9779e2b5" />
+
 
 
 **How to create a new market place?**
