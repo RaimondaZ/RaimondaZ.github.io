@@ -52,3 +52,9 @@ Knowing from the start what price will quickly capture the mass of target buyers
 <img width="1085" height="951" alt="image" src="https://github.com/user-attachments/assets/8723c541-63e1-4304-bb9f-a28f6afb6ec7" />
 
 
+**SME financing model used in emerging European countries**
+
+<img width="1042" height="1073" alt="image" src="https://github.com/user-attachments/assets/04fe9428-0a44-4b62-a919-88eb5dff6d85" />
+
+
+
