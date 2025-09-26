@@ -12,9 +12,11 @@ This chapter is dedicated to sharing my experiences, valuable resources, and ins
 
 
 
+
 **How to create a new market place?**
 
 <img width="1058" height="859" alt="image" src="https://github.com/user-attachments/assets/8dcfb98e-7a9f-4a6f-9053-a1343d91e829" />
+
 
 
 
@@ -25,6 +27,7 @@ This chapter is dedicated to sharing my experiences, valuable resources, and ins
 To reach beyond existing demand, think noncustomers before customers; commonalities before differences; and desegmentation before pursuing finer segmentation
 
 <img width="1088" height="1038" alt="image" src="https://github.com/user-attachments/assets/c7a292f6-6244-4d33-8daa-e9c579969385" />
+
 
 
 
