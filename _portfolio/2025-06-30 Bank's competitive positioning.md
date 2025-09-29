@@ -63,7 +63,7 @@ Knowing from the start what price will quickly capture the mass of target buyers
 
 **Slice investment offer**
 
-<img width="589" height="305" alt="image" src="https://github.com/user-attachments/assets/b8c6847e-f812-45fc-85ed-6605cd7a85a8" />
+<img width="1089" height="805" alt="image" src="https://github.com/user-attachments/assets/b8c6847e-f812-45fc-85ed-6605cd7a85a8" />
 
 
 
