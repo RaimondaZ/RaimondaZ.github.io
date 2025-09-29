@@ -53,9 +53,18 @@ Knowing from the start what price will quickly capture the mass of target buyers
 
 
 
+
 **SME financing model used in emerging European countries**
 
 <img width="1039" height="926" alt="image" src="https://github.com/user-attachments/assets/f540c58b-e4dd-400e-a4e5-677bb17eb4d8" />
+
+
+
+
+**Slice investment offer**
+
+<img width="589" height="305" alt="image" src="https://github.com/user-attachments/assets/b8c6847e-f812-45fc-85ed-6605cd7a85a8" />
+
 
 
 
