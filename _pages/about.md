@@ -41,6 +41,7 @@ Identifying the price that will quickly capture the mass of the target buyers an
 
 
 **Innovation process**
+Assume that you have a product manager thinking out off the box, would it be enough to create innnovation in your company? The answer lies in the process by which the ideas get shaped. Midlevel managers play a crutial role in every company's innovation process, as they shepherd partially formed ideas into fully fledged business plans in an effort to win funding from senior management. Midlevel managers support their proposals with data from existing customers and markets for similar products that have been successful in the past. The problem for growth-seeking managers is that the excisting growth markets of tomorrow are small today. 
 
 <img width="1051" height="861" alt="image" src="https://github.com/user-attachments/assets/a897f719-1463-4fc4-bf6f-df33fac75303" />
 
