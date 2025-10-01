@@ -40,6 +40,12 @@ Identifying the price that will quickly capture the mass of the target buyers an
 
 
 
+**Innovation process**
+
+<img width="1051" height="861" alt="image" src="https://github.com/user-attachments/assets/a897f719-1463-4fc4-bf6f-df33fac75303" />
+
+
+
 Useful material:
 ======
 
