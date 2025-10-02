@@ -66,6 +66,11 @@ Knowing from the start what price will quickly capture the mass of target buyers
 <img width="1089" height="805" alt="image" src="https://github.com/user-attachments/assets/b8c6847e-f812-45fc-85ed-6605cd7a85a8" />
 
 
+**Circumstances in Segmenting Markets**
+
+In a world of one-size-fits-all products do no jobs satisfactorily, therefore product grouwth could come from nonconsumers by taking share from products in other categories. 
+<img width="1005" height="853" alt="image" src="https://github.com/user-attachments/assets/94f9a97e-6843-4b21-b92d-9fd6b60030c5" />
+
 
 
 
