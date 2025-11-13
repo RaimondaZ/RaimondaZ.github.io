@@ -15,7 +15,8 @@ This chapter is dedicated to sharing my experiences, valuable resources, and ins
 
 **How to create a new market place?**
 
-<img width="1058" height="859" alt="image" src="https://github.com/user-attachments/assets/8dcfb98e-7a9f-4a6f-9053-a1343d91e829" />
+<img width="1061" height="859" alt="image" src="https://github.com/user-attachments/assets/88642765-4985-42d2-bf34-2547a50d7dd2" />
+
 
 
 
